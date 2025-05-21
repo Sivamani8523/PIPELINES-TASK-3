@@ -18,3 +18,5 @@ ModelSim / Vivado / any other simulation tool (specify which)
 Testbench to simulate instruction flow and stage behavior
 Design Description:
 The processor is built using a 4-stage pipeline architecture. Pipelining is a technique that allows overlapping of instruction execution stages, improving performance over a sequential design.
+
+![Image](https://github.com/user-attachments/assets/bbf4d450-8885-4d57-9581-6f2718c2269a
